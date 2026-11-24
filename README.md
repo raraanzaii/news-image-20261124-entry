@@ -1,7 +1,8 @@
 # The World Today - Tuesday 24 November 2026
 
-![Rank](https://make.fun/badge/news-image-20261124/raraanzaii/news-image-20261124-entry/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261124/raraanzaii/news-image-20261124-entry/reward.svg)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/raraanzaii/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/raraanzaii/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 An entry for make.fun's **news-image-20261124** bounty, "Sum up 24
 November's world news in one image". The entry is a single newspaper
